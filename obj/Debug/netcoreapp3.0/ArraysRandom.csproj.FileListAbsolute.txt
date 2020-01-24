@@ -1,0 +1,11 @@
+C:\Users\Lexicon\source\repos\ArraysRandom\ArraysRandom\bin\Debug\netcoreapp3.0\ArraysRandom.exe
+C:\Users\Lexicon\source\repos\ArraysRandom\ArraysRandom\bin\Debug\netcoreapp3.0\ArraysRandom.deps.json
+C:\Users\Lexicon\source\repos\ArraysRandom\ArraysRandom\bin\Debug\netcoreapp3.0\ArraysRandom.runtimeconfig.json
+C:\Users\Lexicon\source\repos\ArraysRandom\ArraysRandom\bin\Debug\netcoreapp3.0\ArraysRandom.runtimeconfig.dev.json
+C:\Users\Lexicon\source\repos\ArraysRandom\ArraysRandom\bin\Debug\netcoreapp3.0\ArraysRandom.dll
+C:\Users\Lexicon\source\repos\ArraysRandom\ArraysRandom\bin\Debug\netcoreapp3.0\ArraysRandom.pdb
+C:\Users\Lexicon\source\repos\ArraysRandom\ArraysRandom\obj\Debug\netcoreapp3.0\ArraysRandom.AssemblyInfoInputs.cache
+C:\Users\Lexicon\source\repos\ArraysRandom\ArraysRandom\obj\Debug\netcoreapp3.0\ArraysRandom.AssemblyInfo.cs
+C:\Users\Lexicon\source\repos\ArraysRandom\ArraysRandom\obj\Debug\netcoreapp3.0\ArraysRandom.dll
+C:\Users\Lexicon\source\repos\ArraysRandom\ArraysRandom\obj\Debug\netcoreapp3.0\ArraysRandom.pdb
+C:\Users\Lexicon\source\repos\ArraysRandom\ArraysRandom\obj\Debug\netcoreapp3.0\ArraysRandom.csprojAssemblyReference.cache
